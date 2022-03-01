@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Sir Robert Dashwood, Knight and Baronet, Sir Samuel Dashwood, Knight, John Pery, and Edward Noell, Surviving executors of George Dashwood, Esq; deceased, in trust for minors, the younger children of the said Mr. Dashwood, appellants, from a decree and several orders in the Court of Exchequer, wherein they and others are defendants at the suit of Sir John Champante, Knight, complainant.</title>
+            <author>Dashwood, Robert, Sir, 1662-1734.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18620</idno>
+            <idno type="STC">Wing C999B</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[44]</idno>
+            <idno type="STC">ESTC R227821</idno>
+            <idno type="EEBO-CITATION">99887527</idno>
+            <idno type="PROQUEST">ocm99887527</idno>
+            <idno type="VID">190510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B18620)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190510)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[111])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Sir Robert Dashwood, Knight and Baronet, Sir Samuel Dashwood, Knight, John Pery, and Edward Noell, Surviving executors of George Dashwood, Esq; deceased, in trust for minors, the younger children of the said Mr. Dashwood, appellants, from a decree and several orders in the Court of Exchequer, wherein they and others are defendants at the suit of Sir John Champante, Knight, complainant.</title>
+                  <author>Dashwood, Robert, Sir, 1662-1734.</author>
+                  <author>Champante, John, Sir, d. 1708.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Imperfect: text faded with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dashwood, Robert, --  Sir, 1662-1734 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Champante, John, --  Sir, d. 1708 --  Early works to 1800.</term>
+               <term>Finance, Public --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190510:1"/>
+            <head>The CASE of Sir <hi>Robert Daſhwood,</hi> Knight and Baronet, Sir <hi>Samuel Daſhwood,</hi> Knight, <hi>John Pery,</hi> and <hi>Edward Noell,</hi> Surviving Executors of <hi>George Daſhwood,</hi> Eſq; Deceaſed, in Truſt for Minors, the younger Children of the ſaid Mr. <hi>Daſhwood,</hi> Appellants, from a Decree and ſeveral Orders in the Court of <hi>Exchequer,</hi> wherein they and others are Defendants at the Suit of Sir <hi>John Champante,</hi> Knight, Complainant.</head>
+            <p>
+               <note place="margin">4. <hi>Aug.</hi> 1671. The Undertak<g ref="char:EOLhyphen"/>ing was for Five Years from 25th. <hi>Decemb.</hi> 1670. to 26th. <hi>Dec.</hi> 1675. 8. <hi>Nov.</hi> 1671.</note>THE Lord <hi>Ranelagh,</hi> Sir <hi>Alexander Bence,</hi> Sir <hi>James Hayes, Robert Huntington, Richard Kingdom, John Bence, Joſeph Dean, John Stepney,</hi> and the Teſtator Mr. <hi>Daſhwood,</hi> by Letters-Patents under the Great Seal of <hi>England,</hi> were concerned in the Undertaking for Management of the Revenues of <hi>Ireland,</hi> from 25th. <hi>Dec.</hi> 1670. to 26th. <hi>Dec.</hi> 1675. and no longer; and by Commiſſion alſo under the Great Seal dated 23th. <hi>Sept.</hi> 1671. the ſaid Undertakers, or in their reſepective ab<g ref="char:EOLhyphen"/>ſences (moſt of them living here in <hi>England</hi>) ſeveral Perſons therein named as their reſpective Repreſentatives, or a Quorum of ſuch five of them as are therein particularly named, were appointed to manage the undertaking until the ſaid 26th. <hi>Dec.</hi> 1675. and no longer; and by Articles between the Undertakers, the Lord <hi>Ranelagh</hi> was to have and bear four 12th. Shares, and Mr. <hi>Daſhwood,</hi> and each other of the Undertakers one 12th. Share of all Profits and Loſſeſs by the Undertaking. But the Repreſentatives had no Intereſt in the Undertaking, and only acted for the reſpective Undertakers for a Salary allowed them by each Undertaker.</p>
+            <p>Sir <hi>John Champante</hi> was appointed Treaſurer of the Undertaking, and by his Commiſſion (which recites the ſaid Commiſſion to the Undertakers) was appointed to receive and pay all Money relating to the Undertaking, during the Continuance of his ſaid Commiſſion, in ſuch manner as he ſhould be directed in Writing, ſigned by the ſaid Quorum of the Undertakers, or their Repreſentatives, and not otherwiſe.</p>
+            <p>Sir <hi>J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Champante</hi>'s Accompts to the 26th. <hi>Decemb.</hi> 1673. were ſtated and drawn into two Accompts, one for 1671/2;, and the other for 1673, and afterwards were examined, allowed of, and ſubſcribed by a Quorum of the Undertakers, or their Repreſentatives, and are not queſtioned.</p>
+            <p>
+               <note place="margin">8. <hi>May</hi> 1674. <hi>Daſhwood</hi>'s Aſ<g ref="char:EOLhyphen"/>ſignment. Bill in <hi>Ireland.</hi>
+               </note>
+               <hi>Geor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Daſhwo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> by Indenture aſſigned his Share in the Undertaking to Sir <hi>James Hayes,</hi> and from that time Sir <hi>James Hayes</hi> was to ſtand in the place of Mr. <hi>Daſhwood</hi> as to all Profit and Loſs by the Undertaking. Of this Aſſignment Sir <hi>John Champante</hi> ſoon after had notice, and from the time of the Aſſignment, Mr. <hi>Daſhwood</hi> never intermedled in the Undertaking, nor further concerned himſelf therein.</p>
+            <p>Sir <hi>John Champante</hi> brought his Bill in the Exchequer in <hi>Ireland</hi> againſt my Lord <hi>Ranelagh</hi> and ſome others (and amongſt others named therein the Teſtator Mr. <hi>Daſhwood</hi>) and thereby demanded againſt them the Sum of 36454 <hi>l.</hi> 8 <hi>s.</hi> 8 <hi>d.</hi> as due to him upon two pretended ſtated Accompts made up and ſtated about <hi>October</hi> 1677. by one <hi>Edward Roberts,</hi> by colour of an Authority given to him by the ſaid Sir <hi>James Hayes</hi> and Mr. <hi>Stepney,</hi> without the privity or conſent of any of the other Undertakers, one of the Accompts be<g ref="char:EOLhyphen"/>ing from 25th. <hi>Decemb.</hi> 1673 to 25th. <hi>Decemb.</hi> 1674. and the other Accompt from 25th. <hi>Decemb.</hi> 1674. to the 24th. day of <hi>June</hi> 1677. But finding after he had filed his Bill that the Undertakers then concerned could falſifie thoſe Accompts in 12295 <hi>l.</hi> in one intire Summ, <hi>Champante</hi> and <hi>Roberts</hi> alone, and without the privity of the Undertakers, about <hi>January</hi> 1678. being above 12 Months after the pretended Accompts were ſtated, altered the ſame, and cut out and deſtroyed the whole Charge-part of the Accompts being many Leaves, and cauſed a new Charge-part to be written over again, and fixed the laſt Leaf containing <hi>Roberts</hi>'s Approbation of the Accompts to the Leaves ſo new added.</p>
+            <p>To the Bill in <hi>Ireland</hi> Mr. <hi>Daſhwood</hi> never appeared, and died 8th. <hi>March</hi> 1682.<note place="margin">8. <hi>Mar.</hi> 1682.</note> long before the Caſe there was brought to Hearing, and the Suit was never revived there a<g ref="char:EOLhyphen"/>gainſt the Appellants his Executors, nor they ever called to or made parties to the Bill or the Accompts. But 11th. <hi>June</hi> 1684. <hi>Champante</hi> obtained a Decree in <hi>Ireland</hi> againſt the Lord <hi>Ran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lagh,</hi> and ſome others of the Undertakers which were then alive, for 24159 <hi>l.</hi> 8 <hi>s.</hi> 8 <hi>d.</hi> beſides Coſts.</p>
+            <p>
+               <note place="margin">Bill in <hi>England.</hi> 6. <hi>May</hi> 1675. 58756 <hi>l.</hi> 4 <hi>d.</hi>
+               </note>Sir <hi>John Champante</hi> afterwards exhibited his Bill in the Exche<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uer in <hi>England</hi> againſt my Lord <hi>Ranelagh</hi> and ſeveral others, and amongſt the reſt againſt the Appellants, the Executors of Mr. <hi>Daſhwood,</hi> and thereby demanded the 24159 <hi>l.</hi> 8 <hi>s.</hi> 8 <hi>d.</hi> decreed in <hi>Ireland,</hi> 17350 <hi>l.</hi> for Monies he pretends he ſtands bound for, and 9180 <hi>l.</hi> for Money he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>retends he advanc'd beſides other Principal Monies, Gratuities, Commiſſion-Monies, <hi>&amp;c.</hi> not included in the ſaid Accompts, amounting to 34596 <hi>l</hi> 11 <hi>s.</hi> 07 <hi>d.</hi> his Demand in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll amounting on the 6th. of <hi>May</hi> 1675. to 58756 <hi>l.</hi> 0 <hi>s.</hi> 4 <hi>d.</hi> ⅛. and Intereſt for the ſame ever ſince, which was the firſt time the Appellants ever heard of Sir <hi>Jo. Champate</hi>'s Demands againſt them.</p>
+            <p>
+               <note place="margin">Appellants An<g ref="char:EOLhyphen"/>ſwer.</note>To this Bill the Appellants by their Anſwer amongſt other things inſiſted, That their Teſtator had but a 12th. Share in the Undertaking, and had aſſigned as aboveſaid, and that <hi>Champante</hi> ſoon after had notice thereof.</p>
+            <p>That the Appellants (being only Executors in Truſt for Minors) being alarm'd with ſo great a Demand, and eſpecially it being founded (as was pretended) upon a ſtated Ac<g ref="char:EOLhyphen"/>compt, and knowing their Teſtator had aſſigned as before is ſet forth, having found amongſt his Writings a Counter-part of the ſaid Aſſignment, inquired into the ſaid Ac<g ref="char:EOLhyphen"/>compts, and Mr. <hi>Roberts</hi>'s authority, and preſently diſcovered that the great Summs that made up the Foot of the ſaid pretended Accompts were Monies pretended to be ad<g ref="char:EOLhyphen"/>vanced and borrowed by Sir <hi>John Champante</hi> for the Undertakers, long after Mr. <hi>Daſhwood</hi>'s Aſſignment, and without his order or privity, and after the end of the Under<g ref="char:EOLhyphen"/>taking, and that <hi>Roberts</hi> had not fairly ſtated the ſaid Accompts, nor had any concluding authority to ſtate the ſame.</p>
+            <p>That the Cauſe being at Iſſue, the Complainant in <hi>Trinity</hi> Vacation 1688.<note place="margin">
+                  <hi>Trinity</hi> Vacation 1688.</note> took a Commiſſion into <hi>Ireland</hi> for Examining Witneſſes, and the Appellants joyned in the Com<g ref="char:EOLhyphen"/>miſſion and ſent a Perſon into <hi>Ireland</hi> on purpoſe to look after their Witneſſes, and to attend the Execution of the Commiſſion, who got ſome of their Witneſſes Examined: But one Mr. <hi>John Beeſley</hi> who was Imployed as a Clerk in the Undertaking under Sir <hi>John Champante,</hi> and could have proved that Sir <hi>John Champante</hi> had notice of the Aſſignment from Mr. <hi>Daſhwood</hi> to Sir <hi>James Hayes,</hi> was at that time ſick at <hi>Sligo,</hi> far diſtant from <hi>Dublin,</hi> and ſo could not be Examined at that Commiſſion; and Mr. <hi>John Hayes</hi> who alſo was then in <hi>Ireland,</hi> and could have proved the Notice to Sir <hi>John Champante,</hi> was made a Defendant to prevent his Teſtimony, and could not be Examined without Leave of the Court which were the Reaſons the Appellants exhibited no Interrogatories there, for to prove Notice of the ſaid Aſſignment.</p>
+            <p>
+               <note place="margin">23. <hi>Oct.</hi> 1688.</note>The Court was moved by the Appellants for a Commiſſion to Examine their Witneſſes as of Right due unto them, but the Barons denied, it and only gave the Defendants a Weeks time to Examine Mr. <hi>John Hayes</hi> to prove Notice to <hi>Champante</hi> of Mr. <hi>Daſhwood</hi>'s Aſſignment, but Mr. <hi>Hayes</hi> then being in <hi>Ireland,</hi> and not returning it that time, nor long after could not be Examined.</p>
+            <p>
+               <note place="margin">29. <hi>Oct.</hi> 1688.</note>The Perſon that went into <hi>Ireland</hi> to attend the Execution of the Commiſſion came thence before the ſame was ended, that he might be in Town before the firſt day of <hi>Mi<g ref="char:EOLhyphen"/>chaelmas</hi> Term 1688. to move for a new Commiſſion, but being becalmed at Sea was prevented, but ſoon after his coming made Oath, That Mr. <hi>John Hayes,</hi> Mr. <hi>Beeſley</hi> and others, were material Witneſſes for the Defendants, and ſet out in the Affidavit that <hi>Beeſley</hi> could prove the Notice; and alſo what the other Witneſſes could ſpeak to, and the Reaſons why they could not be Examined on the ſaid firſt Commiſſion; and thereupon the Court was again moved for a new Commiſſion to Examine the ſaid Witneſſes, the Defendants never having had one before. But the Court refuſed to grant one, but ordered Mr. <hi>John Hayes</hi> to attend at the Hearing to be Examined as the Court ſhould think fit; and the Court then declared that they would let in the Appellants to prove Notice if they found it material at the Hearing of the Cauſe.</p>
+            <p>
+               <note place="margin">
+                  <hi>Trinity</hi> Vacation 1688.</note>The Appellants and other Defendants exhibited a Croſs Bill againſt <hi>Champante,</hi> and therein charged him particularly to anſwer if he had not Notice of of Mr. <hi>Daſhwood</hi>'s Aſſignment to the ſaid Sir <hi>James Hayes:</hi> To this Bill <hi>Champante,</hi> refuſed to anſwer, but put in an Evaſive Plea, upon hearing of which the Court of <hi>Exchequer</hi> would not give their Judgement, whether he ſhould anſwer or not till they had heard the Cauſe upon <hi>Champante</hi>'s Bill.</p>
+            <p>
+               <note place="margin">
+                  <hi>Eaſter</hi> and <hi>Trini<g ref="char:EOLhyphen"/>ty</hi> Terms 1689.</note>The Cauſe was heard in the Exchequer, and the Appellants the Executors proved the Aſſignment in Court, and had their ſaid Witneſſes there ready to prove Notice there<g ref="char:EOLhyphen"/>of to <hi>Champante,</hi> but the Court being altered, and all new Judges, and therefore ſtrangers to the former Debates, would not hear them, and <hi>Champante</hi> endeavoured to prove that Mr <hi>Daſhwood</hi> acted in the Undertaking after the ſaid Aſſignment, and exhibited for that purpoſe ſeveral Letters and Orders pretended to be ſigned by Mr. <hi>Daſhwood,</hi> but the ſame were all counterfeited, and not Mr. <hi>Daſhwood</hi>'s Hand-writing.</p>
+            <p>
+               <note place="margin">Decree. 20th. of <hi>June</hi> 1689.</note>The Court bv their Order on Hearing declard, as on one ſide they were not fully ſatisfied to adjudge the ſaid Accounts ſtated by <hi>Roberts</hi> to be concluſive, ſo on the other ſide, they would not diſallow thom as ſtated and cloſed Accounts, but being willing that in caſe the Defendants ſhould have material Objections to offer agianſt any of the Particulars of the Accounts, that the ſame ſhould be examined by Auditors, referred it to the Auditors of the Impreſt to examine the two laſt Accounts, and alſo if they are in the Method of the former Accounts, and the Auditors are to be armed with a Commoſſion to examine Witneſſeſs on both ſides, if need be, concerning the ſaid Accounts, as alſo for examining <hi>Champante,</hi> who not having anſwered the Croſs-Bill, is inſtead of an Anſwer thereto, to be examined upon Interrogatories: And in caſe of any Difficulty, the ſaid Auditors are to certifie the Matters ſpecially, and crave the further Direction of the Court therein. And the ſaid Auditors are alſo to ſtate the Intereſt, Commiſſion-Money, and Gratuities upon the ſaid two laſt Accounts, and take the Account of <hi>Champante</hi>'s Receipts and Disburſements relating to the Undertaking ſince the 24th. of <hi>June</hi> 1677. and ſuch of the Defendants as would be exempted from Accounting were to bring in their Caſes for the Barons to conſider of and the ſaid <hi>Jo. Hayes</hi> is thereby diſmiſt as to being a Party to the Account, but is not to be examined as a Witneſs in the ſaid Cauſe.</p>
+            <p>Upon paſſing of which Order or Decree the Appellants were not permitted to inſert therein any part of their Anſwer or Defence, or that the ſaid Aſſignment was proved in Court.</p>
+            <p>The Appellants the Executors of Mr. <hi>Daſhwood</hi> delivered in their Caſe for the Barrons to conſider of, and inſiſted that they ought not to be accountable to <hi>Champante</hi> further than from 25th. <hi>December</hi> 1673. to 8th. of <hi>May</hi> 1674. being the time Mr. <hi>Daſhwood</hi> aſſigned to Sir <hi>James Hayes,</hi> or at fartheſt to the time <hi>Champante</hi> had Notice thereof, and that <hi>Champante</hi> as againſt them ought to come to a new Account to that time.</p>
+            <p>
+               <note place="margin">6th. of <hi>December</hi> 1689.</note>The Appellants Caſe coming to be heard before the Barons, who were ſtrangers to the firſt Proceedings of the Cauſe, and to the Promiſes the Court had made to let in the Appellants to prove Notice at the hearing of the Cauſe, they refuſed to hear Witneſſes <hi>Viva voce</hi> to prove the Notice, or to refer the ſame to be Tryed by an Iſſue at Law, although the ſame was very Material, and ſo declared by the Court, and indeed was the ſole Point upon which the Appellants Cauſe depended; And ordered, that the Appel<g ref="char:EOLhyphen"/>lants (in regard they had not proved Notice in the Depoſitions before Hearing) (which they were diſabled to do for the Reaſons aforeſaid) ſhould be ſubject to the whole Account, though one of the Barons declared his Opinion, that the Appellants ought to be permitted to try the Matter of Notice at Law.</p>
+            <p>Upon paſſing of which Order however the Appellants were not permitted to inſert in the ſame, that their Council prayed the Court would allow them to examine their Wit<g ref="char:EOLhyphen"/>neſſes, or to go to a Tryal at Law to prove the Notice, and that they ought to be diſcharged from the time of the Aſſignment and Notice thereof.</p>
+            <p>Againſt which Orders and Decree the Appellants have appealed, as conceiving the ſame unjuſt and contrary to Equity and good Conſcience.</p>
+            <p>
+               <note place="margin">Reaſons of Ap<g ref="char:EOLhyphen"/>peal.</note>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> For that the Appellants Teſtator Mr. <hi>Daſhwood,</hi> having by Deed under his Hand and Seal the 8th. of <hi>May</hi> 1674, aſſigned his ſhare in the Underta<g ref="char:EOLhyphen"/>king to Sir <hi>James Hayes,</hi> another of the Undertakers, the Court ought before the Hearing to have granted the Appellants a Commiſion to have exa<g ref="char:EOLhyphen"/>mined their Witneſſes, (as was deſired) and at the Hearing the Court ought to have examined the Appellants Witneſſes to have proved Notice of the ſaid Aſſignment (the Aſſignment it ſelf being proved in Court) or to have let in the Appellants ſome other way to have proved the ſame, according to the former Declaration of the Court (before the Judges were altered) that they would ſo do. And the Appellants ought not to have been decreed accountable further than to that time, Mr. <hi>Daſhwood</hi> never acting not intermedling in the ſaid Undertaking after the ſaid Aſſignment. And the ſub<g ref="char:EOLhyphen"/>ſequent Letters and Orders produced by the ſaid Sir <hi>John Champante</hi> as ſigned by Mr. <hi>Daſhwood,</hi> to prove he acted afterwards, were all counterfeited, and not his Hand-writing, and near 30000 <hi>l.</hi> of the ſaid Account is for Moneys pretended to be lent the Undertaking, long after Mr. <hi>Daſhwood</hi>'s Aſſignment; and the End of the Undertaking, which never did redound to the Benefit or Profit of Mr. <hi>Daſhwood,</hi> and therefore not reaſonable that his Eſtate ſhould be chargeable with the ſame, and in truth one penny thereof was not paid or brought into the Undertaking.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> For that the Court of Exchequer have thereby, as far in them lies, deprived the Appellants of all means of proving the Notice, for they have ordered <hi>Champante</hi> only to be examined upon Interrogatories inſtead of anſwering the Croſs Bill, which, if he had anſwered, the Appellants might in that Cauſe have examined to the Notice. And they have alſo ordered that Mr. <hi>John Hayes,</hi> who is one of the Appellants Witneſſes to prove the Notice, and was ſo declared brfore Publication, or the Hearing ſhall be diſmiſt, as not being concerned in Intereſt, to account with or anſwer <hi>Cham<g ref="char:EOLhyphen"/>pante</hi>'s Demands, and yet to deprive the Appellants of his Teſtimony, have ordered he ſhall not be examined as a Witneſs in the Cauſe, notwith<g ref="char:EOLhyphen"/>ſtanding he hath diſclaimed by his Anſwer, and was not, nor is in any ways concerned in Interereſt, being only the Repreſentative of Sir <hi>James Hayes.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> For that the Court ought utterly to have rejected the pretended ſtated Accounts by Mr. <hi>Roberts</hi> (as to the Appellants) he having no Authority for ſtating thereof from the Appellants Teſtator; And <hi>Roberts</hi> himſelf hath ſworn, that he underſtood the Authority was intended only for him to pre<g ref="char:EOLhyphen"/>pare the Accounts for the Undertakers peruſal, and not that the ſame ſhould be binding or concluſive to them. Nor was the ſaid Authority ſigned by a <hi>Quorum</hi> of the Undertakers, or their Repreſentatives, or by the Complainant <hi>Champante</hi> himſelf, and ſo he was not bound by what <hi>Roberts</hi> ſhould do therein.</p>
+            <p>Alſo the ſaid pretended ſtated Accounts are made up of general Heads and Abſtracts, containing no Particulars of Times, Perſons, or Sums paid or received: Beſides, in them great Sums are allowed without ſufficient Vouchers, and alſo vaſt Sums, to the value of 100000 <hi>l.</hi> and more are therein paſſed and allowed, without any Vouchers at all, and <hi>Champante</hi> refuſed to deliver the Vouchers he had, by a Schedule, though the Undertakers offered to take them, if he would do ſo, but careleſly threw them away, to prevent any Examination or Diſcovery thereof.</p>
+            <p>Alſo the ſaid pretended ſtated Accounts were above a year after the making up of the ſame, and after a Bill brought in <hi>Ireland</hi> for the Moneys pretended due thereupon, altered by Sir <hi>John Champante</hi> and Mr. <hi>Roberts,</hi> without the Privity of any of the Undertakers in 12295 <hi>l.</hi> in one <hi>Item,</hi> as is ſince diſcovered, and all the Charge-part cut out and deſtroyed, and a new Charg-part of ſeveral Leaves put in the room thereof.</p>
+            <p>Alſo the ſaid pretended Accounts are carried on until the 24th. of <hi>June</hi> 1677. whereas the Undertaking ended at <hi>Chriſtmas</hi> 1675. and after that, Sir <hi>John Champante</hi> acted only by Order from ſome particular Perſons then concerned in the Undertaking (but Mr. <hi>Daſhwood</hi> was not any of them) ſo that that Account at moſt as againſt the Appellants (becauſe Notice was not proved of the ſaid Aſſignment) ought only to have been taken until <hi>Chriſtmas</hi> 1675. And the ſame as to the Appellants, ought to have been an open Account; It not being pretended that their Teſtator ever had any Notice of the ſtating thereof, or concerned himſelf therein, or aſſented to the ſame.</p>
+            <pb facs="tcp:190510:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
